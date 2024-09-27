@@ -59,7 +59,7 @@ int main(void)
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/5fc95d12-7e15-40dd-bfd0-f1df992f73e9)
 
@@ -112,7 +112,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/cc11ad4d-044a-43ec-a0b4-22a718d09c75)
 
@@ -177,15 +177,17 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
+
+![image](https://github.com/user-attachments/assets/f6c713e5-3871-4536-a891-a9bc0a4a002a)
 
 
 
 
 
 
-
-
+## Result
+Thus the program has been successfully executed.
 
 
 
