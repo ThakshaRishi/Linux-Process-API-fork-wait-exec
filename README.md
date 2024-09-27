@@ -186,17 +186,5 @@ int main() {
 
 
 
-## Result
-Thus the program has been successfully executed.
-
-
-
-
-
-
-
-
-
-
 # RESULT:
 The programs are executed successfully.
